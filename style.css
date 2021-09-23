@@ -1,0 +1,286 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
+html {
+	overflow: scroll;
+    overflow-y: hidden;
+	font-size: 10px;
+	font-family: 'Montserrat', sans-serif;
+	scroll-behavior: smooth;
+}
+:root {
+    /*===== Colores =====*/
+    --first-color-op: crimson;
+    --first-color:#Fc3d3f;
+    --white-color: #E9EAEC;
+    --dark-color: #272D40;
+    --dark-color-lighten: #F2F5FF;
+    --light-first-color:#F25a5c;
+    /*===== Fuente y tipografia =====*/
+    --body-font: 'Poppins', sans-serif;
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.25rem;
+    --normal-font-size: 1rem;
+    --small-font-size: .875rem;
+  }
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+}
+/* Optional: show position indicator in red */
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.btn
+{
+    display:inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    height: 44px;
+    padding:10px 20px;
+    padding-bottom: 30px;
+    background-color:transparent ;
+    border: 1px solid var(--first-color);
+    color: var(--white-color);
+    position: relative;
+}
+.active
+{
+    color: var(--first-color) !important;
+    border-bottom: solid var(--first-color)  2px; 
+}
+#top
+{
+    background-color: #0e0e0e;
+    min-height: 6vh;
+}
+
+/*TOP ICON*/
+#top-left
+{
+    float: left;
+    margin-left: 10%;
+    width: 50%;
+}
+#top-left div
+{
+    padding-left: 1%;
+    padding-top: 8px;
+    font-size:medium;
+    color: var(--first-color);
+}
+#top-left div:nth-child(1)
+{
+    display: inline-block;
+    color: var(--first-color);
+}
+#top-left span
+{
+    color: var(--white-color);
+    font: lighter;
+    font-size: 10px;
+}
+#top-left div:nth-child(2)
+{
+    display: inline-block;
+
+}
+#top-left div:nth-child(3)
+{
+    display: inline-block;
+    color: var(--first-color);
+}
+#top-right
+{
+    float: right;
+    margin-right: 4vw;
+    padding-top: 2px;
+    word-spacing: 10px;
+    line-height: 35px;
+    color: var(--white-color);
+}
+#top-right span
+{
+    display: inline-block;
+    padding:5px 10px;
+    background-color: #2d2c2c;
+    font-size: 1.5rem;
+}
+#top-right span:nth-child(1)
+{
+    background-color: var(--first-color);
+}
+/*----Header Style----*/
+
+#header
+{
+    width: 100vw;
+    height: 375px;
+    position: fixed;
+	z-index: 1000;
+	left: 0;
+	top: 6vh;
+    background-image: url("../Image/gallery-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#header #nav
+{
+    background-color: #000000b7;
+    min-height: 10vh;
+	width: 100vw;
+	height: auto;
+}
+/*-----Donate Card-----*/
+#header #donate-card
+{
+    width:480px;
+    height:160px;
+    background-color: black;
+    opacity: 78%;
+    position: relative;
+    left: 860px;
+    padding: 10px 12px;
+    top:10px;
+}
+#header #donate-card h1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+	color: var(--white-color);
+	text-transform: uppercase;
+    line-height: 3vw;
+    margin: 0;
+}
+#header #donate-card h1 span:nth-child(1)
+{
+    color: var(--first-color);
+}
+#header #donate-card span:nth-child(2)
+{
+    display: block;
+    width: 10vw;
+    height: 4px;
+    background-color: var(--first-color);
+}
+#header #donate-card p
+{
+
+    font-family:monospace;
+    color: var(--white-color);
+    font-size: 15px;
+}
+#header #donate-card .btn
+{
+    left: 30%;
+}
+/*--------INFO CARD----------*/
+#header #info-card
+{
+    position: relative;
+    width: 900px;
+    height: 100px;
+    left: 233px;
+    top: 34px;
+    background-color: var(--first-color);
+}
+#header #info-card .card
+{
+    display: flex;
+    width: 298px;
+    height: 100px;
+}
+#header #info-card .card i{
+    display: flex;
+    color: var(--light-first-color);
+    align-items: center;
+    justify-items: center;
+    width: 30px;
+    height:20px;
+    font-size: 30px; 
+    padding: 20px 20px;
+    border-radius: 30px 30px;
+    margin-left:30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: var(--white-color);
+}
+#header #info-card .txt-card
+{
+    color:var(--white-color);
+    width: 100%; 
+    margin-left:10px;
+    margin-top: 20px;
+}
+#header #info-card span:nth-child(1)
+{
+    color:var(--white-color);
+    font-size: 2rem;
+    font-weight: 900;
+    margin-left:10px;
+}
+#header #info-card span:nth-child(2)
+{
+    display: block;
+    width: 40%;
+    height: 1.5px;
+    margin-left: 12px;
+    background-color:var(--white-color) ;
+}
+#header #info-card span:nth-child(3)
+{
+    display: block;
+    font-family:monospace;
+    color: var(--white-color);
+    margin-top: 4px;
+    font-size: 1rem;
+    margin-left: 12px;
+    font-weight: 900;
+
+}
+/*---------Nav Bar----------*/
+#header #nav ul
+{
+    display: inline-block;
+    width: fit-content;
+    padding: 0;
+    margin:0;
+    margin-left: 30%;
+    padding: 20px 10px;
+}
+#header #nav ul li
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    border-left: solid grey  2px;
+    text-align: center;
+    font-size: 18px;
+    padding: 0px 10px;
+    font-weight: bold;
+}
+#header #nav ul li a
+{
+    text-decoration: none;
+    color: grey;
+    padding-bottom: 15px;
+}
+#header #nav ul li:nth-child(1)
+{
+border: none;
+}
+#header #nav .btn
+{
+    left: 5%;
+}
+/*EFFECTS*/
+.btn:hover
+{
+    background-color: var(--first-color);
+    cursor:pointer
+}
+#header #nav ul li a:hover
+{
+    color: var(--first-color);
+    font-weight: bolder;
+}
