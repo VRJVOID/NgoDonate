@@ -37,7 +37,7 @@
 					<li class="nav-item"><a href="#mission" class="nav-link">Mission</a></li>
 					<li class="nav-item"><a href="#causes" class="nav-link">Causes</a></li>
 					<li class="nav-item"><a href="#about" class="nav-link">About</a></li>
-					<li class="nav-item cta"><a href="donate.html" class="nav-link">Donate</a></li>
+					<li class="nav-item cta"><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="nav-link">Donate</a></li>
 				</ul>
 			</div>
 		</div>
@@ -55,7 +55,7 @@
 								<h2>Help the poor in need</h2>
 								<h1 class="mb-3">Lend the helping hand get involved</h1>
 								<div class="d-flex meta">
-									<div class=""><p class="mb-0"><a href="donate.html" class="btn btn-secondary py-3 px-2 px-md-4">Donate</a></p></div>
+									<div class=""><p class="mb-0"><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-secondary py-3 px-2 px-md-4">Donate</a></p></div>
 									<a href="#" class="d-flex align-items-center button-link">
 									</a>
 								</div>
@@ -74,7 +74,7 @@
 								<h2>Raising Hope</h2>
 								<h1 class="mb-3">Discover Non-Profit Charity Platform</h1>
 								<div class="d-flex meta">
-									<div class=""><p class="mb-0"><a href="donate.html" class="btn btn-secondary py-3 px-2 px-md-4">Donate</a></p></div>
+									<div class=""><p class="mb-0"><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-secondary py-3 px-2 px-md-4">Donate</a></p></div>
 								</div>
 							</div>
 						</div>
@@ -91,7 +91,7 @@
 								<h2>Raising Hope</h2>
 								<h1 class="mb-3">Giving Hope to the Homeless People</h1>
 								<div class="d-flex meta">
-									<div class=""><p class="mb-0"><a href="donate.html" class="btn btn-secondary py-3 px-2 px-md-4">Donate</a></p></div>
+									<div class=""><p class="mb-0"><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-secondary py-3 px-2 px-md-4">Donate</a></p></div>
 								</div>
 							</div>
 						</div>
@@ -143,7 +143,7 @@
 							</div>
 						</div>
 					</div>
-					<p><a href="donate.html" class="btn btn-secondary btn-outline-secondary">Donate</a></p>
+					<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-secondary btn-outline-secondary">Donate</a></p>
 				</div>
 			</div>
 		</div>
@@ -209,7 +209,7 @@
 						<a  class="img w-100" style="background-image: url(images/causes-1.jpg);"></a>
 						<div class="text p-3">
 							<h2><a >Save the poor children from hunger</a></h2>
-							<p><a href="donate.html" class="btn btn-light w-100">Donate Now</a></p>
+							<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-light w-100">Donate Now</a></p>
 						</div>
 					</div>
 				</div>
@@ -218,7 +218,7 @@
 						<a href="#" class="img w-100" style="background-image: url(images/causes-2.jpg);"></a>
 						<div class="text p-3">
 							<h2><a href="#">Save the poor children from hunger</a></h2>
-							<p><a href="donate.html" class="btn btn-light w-100">Donate Now</a></p>
+							<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-light w-100">Donate Now</a></p>
 						</div>
 					</div>
 				</div>
@@ -227,7 +227,7 @@
 						<a href="#" class="img w-100" style="background-image: url(images/causes-3.jpg);"></a>
 						<div class="text p-3">
 							<h2><a href="#">Save the poor children from hunger</a></h2>
-							<p><a href="donate.html" class="btn btn-light w-100">Donate Now</a></p>
+							<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-light w-100">Donate Now</a></p>
 						</div>
 					</div>
 				</div>
@@ -236,7 +236,7 @@
 						<a href="#" class="img w-100" style="background-image: url(images/causes-4.jpg);"></a>
 						<div class="text p-3">
 							<h2><a href="#">Save the poor children from hunger</a></h2>
-							<p><a href="donate.html" class="btn btn-light w-100">Donate Now</a></p>
+							<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-light w-100">Donate Now</a></p>
 						</div>
 					</div>
 				</div>
@@ -249,7 +249,7 @@
 			<div class="row">
 				<div class="col-md-3 mb-5 mb-md-0 text-center text-md-left">
 					<h2 class="font-weight-bold" style="color: #fff; font-size: 22px;">We're on a mission to help all your problems</h2>
-					<a href="donate.html" class="btn btn-white btn-outline-white">Donate Now</a>
+					<a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-white btn-outline-white">Donate Now</a>
 				</div>
 				<div class="col-md-9">
 					<div class="row">
@@ -311,7 +311,7 @@
 			<span class="subheading">About us</span>
 			<h2 class="mb-2">Give a helping hand to a needy people</h2>
 			<p>Always have a willing hand to help someone, you might be the only one that does..</p>
-			<p><a href="donate.html" class="btn btn-secondary">Donate</a></p>
+			<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-secondary">Donate</a></p>
 		  </div>
 		</div>
 	   </div>
@@ -361,7 +361,7 @@
 					</div>
 				</div>
 				<div class="col-md-4 col-lg-4 d-flex align-items-center justify-content-end">
-					<p class="mb-0"><a href="donate.html" class="btn btn-primary py-3 px-4">Donate Now</a></p>
+					<p class="mb-0"><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-primary py-3 px-4">Donate Now</a></p>
 				</div>
 			</div>
 		</div>
@@ -386,7 +386,7 @@
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-3 mb-4 mb-md-0">
-					<p><a href="donate.html" class="btn btn-quarternary">Donate Now</a></p>
+					<p><a href="https://ngo-intership.000webhostapp.com/pay-form.php" class="btn btn-quarternary">Donate Now</a></p>
 				</div>
 			</div>
 		</div>
